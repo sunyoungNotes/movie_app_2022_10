@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunyoungNotes/movie_app_2022_10.git/static/css/main.3d7d9043.css",
+    "main.js": "/sunyoungNotes/movie_app_2022_10.git/static/js/main.c7e90e33.js",
+    "index.html": "/sunyoungNotes/movie_app_2022_10.git/index.html",
+    "main.3d7d9043.css.map": "/sunyoungNotes/movie_app_2022_10.git/static/css/main.3d7d9043.css.map",
+    "main.c7e90e33.js.map": "/sunyoungNotes/movie_app_2022_10.git/static/js/main.c7e90e33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7d9043.css",
+    "static/js/main.c7e90e33.js"
+  ]
+}
